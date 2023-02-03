@@ -28,10 +28,10 @@
   <p align="center">
     Development Bootcamps API made with Node.JS and Express with a lot of routes and methods
     <br />
-    <a href="https://github.com/Yazan-Ali-01/Developers-Camp-Api"><strong>Explore the docs »</strong></a>
+    <a href="https://fine-red-firefly-hose.cyclic.app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://yazan-book-library.cyclic.app/">View Demo</a>
+    <a href="https://fine-red-firefly-hose.cyclic.app/">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -149,7 +149,7 @@ Don't forget to give the project a star! Thanks again!
 
 Email: [yazan.ali.dev@gmail.com](yazan.ali.dev@gmail.com)
 
-Project Link: [https://github.com/Yazan-Ali-01/Book-Library](https://github.com/Yazan-Ali-01/Developers-Camp-Api)
+Project Link: [https://github.com/Yazan-Ali-01/Developers-Camp-Api](https://github.com/Yazan-Ali-01/Developers-Camp-Api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
